@@ -36,9 +36,9 @@ spring.jpa.properties.hibernate.format_sql=true
 
 server.error.include-message=always
 ```
-Because using the postgresql property it looks like this.
+Set file properties to connect to db.
 
-If the properties have been set like this then the jpa dependency can be activated again
+If the properties have been set like this then the jpa dependency can be activated again.
 
 
 ### Write java
